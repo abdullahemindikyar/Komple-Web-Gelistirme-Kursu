@@ -1,6 +1,0 @@
-Uygulama 3:
-
-* "movie-app/uygulama-2" klasörünü "uygulama-3" ismiyle kopyalayınız.
-* Film başlıklarını linke çeviriniz. (baba.html, yüzüklerinefendisi.html, yesilyol.html)
-* Detay sayfalarında film için başlık, açıklama ve resim ekleyiniz.
-* Detay sayfalarına "anasayfa" linki ekleyiniz.
